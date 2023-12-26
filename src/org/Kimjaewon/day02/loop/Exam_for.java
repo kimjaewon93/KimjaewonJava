@@ -8,4 +8,4 @@ public class Exam_for {
 			System.out.println(i);
 		}
 	}
-}
+}https://blog.naver.com/lovelysuns/223209855583
