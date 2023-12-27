@@ -1,4 +1,4 @@
-package org.Kimjaewon.day03.array;
+package org.Kimjaewon.day04.array;
 
 public class Exam_Array {
 	public static void main(String[] args) {
